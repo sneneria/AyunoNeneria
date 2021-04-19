@@ -1,0 +1,26 @@
+{
+  "name": "prelim",
+  "version": "1.0.0",
+  "description": "Prelim Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneneria/AyunoNeneria.git"
+  },
+  "keywords": [
+    "Prelim",
+    "Exam"
+  ],
+  "author": "ayunoneneria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneneria/AyunoNeneria/issues"
+  },
+  "homepage": "https://github.com/sneneria/AyunoNeneria#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
